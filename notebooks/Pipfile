@@ -10,9 +10,9 @@ sklearn = "*"
 category-encoders = "*"
 matplotlib = "*"
 xgboost = "*"
+tensorflow = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.7"
-
