@@ -11,8 +11,9 @@ category-encoders = "*"
 matplotlib = "*"
 xgboost = "*"
 tensorflow = "*"
+plotly = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
